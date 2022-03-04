@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517405910750",
+    "project_id": "edusewa2",
+    "storage_bucket": "edusewa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517405910750:android:87e868859c07951040c44f",
+        "android_client_info": {
+          "package_name": "com.example.edusewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517405910750-gam2e7u8nsd6ahmsn7pkmdvkhu2i396b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_ZlNF7o6UrZlS8WZwgoBLjRjoZXsDT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517405910750-gam2e7u8nsd6ahmsn7pkmdvkhu2i396b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
